@@ -40,15 +40,17 @@
 
 
 ## 📌 Projects  
+---
 
-### 🌟 Featured Projects  
-| Project Name  | Tech Stack | Live Demo | 
-|--------------|-----------|-----------|------|
-| **Project 1** | React, Node.js, MongoDB | [https://bistro-boss-31bcd.web.app/](#)  |
-| **Project 2** | HTML, CSS, JavaScript | [[https://assignment-9-firebase.surge.sh/](#)|
-| **Project 3** | MERN Stack | [https://assecttrack.web.app/](#) |
+## 🚀 Featured Projects  
 
-🚀 **Check out my full portfolio:** [coming soon](#)  
+| 🌟 Project Name | Tech Stack | Live Demo | Repo |
+|---------------|------------|-----------|------|
+| **Project 1** | React.js, Node.js, MongoDB | [https://bistro-boss-31bcd.web.app/](#) | [GitHub](#) |
+| **Project 2** | HTML, CSS, JavaScript | [https://assignment-9-firebase.surge.sh/](#) | [GitHub](#) |
+| **Project 3** | MERN Stack | [https://assecttrack.web.app/](#) | [GitHub](#) |
+
+🔗 **Explore more projects:** [Portfolio Link](#)  
 
 ---
 
