@@ -2,6 +2,8 @@
 
 ![](https://i.ibb.co.com/8nCq0SLY/wallpaper.png)
 
+<h1>I am Ashik khan</h1>
+
 <h1>## 💻 Junior Front-End Developer | MERN Stack Developer  </h1>
 
 ---
@@ -43,8 +45,8 @@
 | Project Name  | Tech Stack | Live Demo | Repo |
 |--------------|-----------|-----------|------|
 | **Project 1** | React, Node.js, MongoDB | [https://bistro-boss-31bcd.web.app/](#)  |
-| **Project 2** | HTML, CSS, JavaScript | [[Live Link](https://assignment-9-firebase.surge.sh/)](#)|
-| **Project 3** | MERN Stack | [https://coffee-book-dynamic-project.surge.sh/](#) |
+| **Project 2** | HTML, CSS, JavaScript | [[https://assignment-9-firebase.surge.sh/()](#)|
+| **Project 3** | MERN Stack | [https://assecttrack.web.app/](#) |
 
 🚀 **Check out my full portfolio:** [Your Portfolio Link](#)  
 
