@@ -50,7 +50,7 @@
 | **Project 2** | HTML, CSS, JavaScript | [https://assignment-9-firebase.surge.sh/](#) | [GitHub](#) |
 | **Project 3** | MERN Stack | [https://assecttrack.web.app/](#) | [GitHub](#) |
 
-🔗 **Explore more projects:** [Portfolio Link](#)  
+
 
 ---
 
